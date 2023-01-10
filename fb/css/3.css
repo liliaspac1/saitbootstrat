@@ -1,0 +1,7 @@
+body {
+    background: #333; /* Цвет фона */
+    color: rgb(130, 117, 117); /* Цвет текста */
+   }
+.container{
+    text-align: center;
+}

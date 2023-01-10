@@ -1,0 +1,43 @@
+body {
+    background: #333; /* Цвет фона */
+    color: #fc0; /* Цвет текста */
+   }
+.gallery img{
+    width:780px;
+     height:600px;
+}
+.offer p {
+	font-size: 60px;
+	margin-bottom: 19px;
+	margin-top: -500px;
+	letter-spacing: 0.02em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p {
+    display: flex;
+	text-align: right;
+    margin-top: -600px;
+    color:white;
+    vertical-align:600px;
+    width: 2200px;
+    height: -100px;
+}
+button{
+    width: 250px;	height: 50px; /* Размеры */
+    border: 1px solid #ffffff; /* Параметры рамки */
+    background: rgb(122, 17, 17); /* Цвет фона */
+    font-size: 14px; /* Размер текста */
+    padding: 5px 20px; /* Поля вокруг текста */
+    border-radius:  4px;
+    color:rgb(255, 255, 255);
+    margin-left: 1050px;/*переместить вправо текст*/
+    transform: translateY(70px);/*сдвигаем текст вниз вверз*/
+}
+.collapse{
+    margin-left: 800px;/*переместить вправо текст*/
+    transform: translateY(90px);/*сдвигаем текст вниз вверз*/
+    color:rgb(134, 123, 123);
+
+}

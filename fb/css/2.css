@@ -1,0 +1,11 @@
+body {
+    background: #333; /* Цвет фона */
+    color: rgb(255, 255, 255); /* Цвет текста */
+   }
+p{
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+}
+.fig {
+    text-align: center; /* Выравнивание по центру */ }
